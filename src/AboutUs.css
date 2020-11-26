@@ -1,0 +1,78 @@
+.AboutContainer{
+    height:70vh;
+    font-family: "Berlin Sans FB Demi","system-ui";
+    margin:30px auto;
+    padding:20px 0px 20px 30px;
+    color:rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255,0.5);
+    
+}
+.heading{
+    font-weight:900;
+    font-size: 45px;
+    margin: 100px auto 20px auto;
+}
+.right{
+    margin-top:140px;
+    margin-right: 20%;
+    align-content: center;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#name{
+            font-size: 50px;
+            font-weight:700;
+            margin:0px 
+}
+
+#quote{
+    margin:30px 0px;
+    font-size: 30px;
+    font-weight:700;
+     
+}
+#sub{
+   margin: 0px 0px 20px 85px;
+   font-weight: 600;
+   font-style: italic;
+}
+a{
+    text-decoration: none;
+    transition: 0.5s;
+}
+button>a{color:#fff}
+p>a{color:#000}
+button {
+    font-size: 24px; 
+    outline: none;
+    background-image: linear-gradient(to right, #1CD8D2 0%, #93EDC7  51%, #1CD8D2  100%);
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   border:0px;
+   color: white;            
+   border-radius: 10px;
+   display: block;
+ }
+
+ button:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+#button{
+    border:0.5px solid black;
+    padding:10px;
+    font-size:20px;
+    cursor:pointer;
+    font-weight:700;
+    border-radius:5px;
+}

@@ -1,23 +1,12 @@
-import logo from './logo.svg';
+import AboutUs from './AboutUs';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="websiteLogo"><img src="https://static.wixstatic.com/media/548938_b02ba0293a534349800a1b94a09929a2~mv2.png/v1/fill/w_261,h_74,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20-%20Black-%20Page.webp" alt="website logo"></img></div>
+    <AboutUs />
+    
     </div>
   );
 }
