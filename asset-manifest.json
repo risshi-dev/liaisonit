@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/liaisonit/static/css/main.4923e9dc.chunk.css",
+    "main.js": "/liaisonit/static/js/main.def6b5e3.chunk.js",
+    "main.js.map": "/liaisonit/static/js/main.def6b5e3.chunk.js.map",
+    "runtime-main.js": "/liaisonit/static/js/runtime-main.fda69ce3.js",
+    "runtime-main.js.map": "/liaisonit/static/js/runtime-main.fda69ce3.js.map",
+    "static/js/2.2251c4ed.chunk.js": "/liaisonit/static/js/2.2251c4ed.chunk.js",
+    "static/js/2.2251c4ed.chunk.js.map": "/liaisonit/static/js/2.2251c4ed.chunk.js.map",
+    "static/js/3.8b264988.chunk.js": "/liaisonit/static/js/3.8b264988.chunk.js",
+    "static/js/3.8b264988.chunk.js.map": "/liaisonit/static/js/3.8b264988.chunk.js.map",
+    "index.html": "/liaisonit/index.html",
+    "static/css/main.4923e9dc.chunk.css.map": "/liaisonit/static/css/main.4923e9dc.chunk.css.map",
+    "static/js/2.2251c4ed.chunk.js.LICENSE.txt": "/liaisonit/static/js/2.2251c4ed.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/liaisonit/static/media/you-x-ventures-Oalh2MojUuk-unsplash.150701a5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fda69ce3.js",
+    "static/js/2.2251c4ed.chunk.js",
+    "static/css/main.4923e9dc.chunk.css",
+    "static/js/main.def6b5e3.chunk.js"
+  ]
+}
